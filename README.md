@@ -13,6 +13,6 @@ First run data_cleaning.ipynb
 Then run ncf.ipynb
   - This notebook runs the yelp dataset through a vanilla Neural Collaborative Filtering with Sentiment Augmentation
 
-Finally run ncf_mf_augmentation.ipynb
+Finally run ncf_mf.ipynb
   - This notebook runs the yelp dataset through a Matrix Factorization - Neural Collaborative Filtering model with Sentiment Augmentation
   
